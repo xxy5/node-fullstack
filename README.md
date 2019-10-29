@@ -5,9 +5,10 @@
 本系列文章包含以下知识点：
 
 1. Node.js 基础知识和常用 API
-2. Node.js 主流框架：Express.js、Koa.js、Egg.js、Nest.js
-3. 数据存储：MySQL、MongoDB、Redis
-4. 前端框架：Vue.js、React.js
+2. Web 框架：Express.js、Koa.js、Egg.js
+3. 跨平台的桌面应用框架：Electron.js
+4. 数据存储：MySQL、MongoDB、Redis
+5. 前端框架：Vue.js、React.js
 
 ## 目录
 
