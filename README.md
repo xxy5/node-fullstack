@@ -8,8 +8,8 @@
 2. Web 框架：Express.js、Koa.js、Egg.js
 3. 数据存储：MySQL、MongoDB、Redis
 4. 前端框架：Vue.js、React.js
-5. 跨平台的桌面应用框架：Electron.js
-6. 移动端开发：uni-app、React Native、Fullter
+5. 跨平台桌面应用框架：Electron.js
+6. 移动端 APP 开发：uni-app、React Native、Fullter
 
 ## Catalog
 
