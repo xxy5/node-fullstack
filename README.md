@@ -4,7 +4,7 @@
 
 本系列文章包含以下知识点：
 
-1. [Node.js 基础知识和常用 API](./Node.js基础/1.Node.js-介绍与安装.md)
+1. Node.js 基础知识和常用 API
 2. Web 框架：Express.js、Koa.js、Egg.js
 3. 数据存储：MySQL、MongoDB、Redis
 4. 前端框架：Vue.js、React.js
@@ -16,8 +16,8 @@
 
 ### Node.js 基础
 
-    1. Node.js 介绍与安装
-    2. 第一个 Hello World
+1. [Node.js 介绍与安装](./Node.js 基础/1.Node.js 介绍与安装.md)
+2. 第一个 Hello World
 
 ### Express.js
 
