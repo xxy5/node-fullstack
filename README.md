@@ -16,7 +16,7 @@
 
 ### Node.js 基础
 
-1. [Node.js 介绍与安装](./Node.js 基础/1.Node.js 介绍与安装.md)
+1. [Node.js 介绍与安装](/Node.js基础/1.Node.js介绍与安装.md)
 2. 第一个 Hello World
 
 ### Express.js
